@@ -1,2 +1,2 @@
-# macrommand
+# McRo
 command script language
